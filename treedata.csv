@@ -1,6 +1,7 @@
 name,parent
-India:null
+India,null
 karnataka,India
+orissa,India
 bangalore,karnataka
-Daughter of A,Level 2: A
-Level 2: B,Top Level
+mangalore,karnataka
+
