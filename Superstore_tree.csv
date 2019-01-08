@@ -1,0 +1,18 @@
+name,parent
+Category,null
+Furniture,Category
+Bookcases,Furniture
+Chairs,Furniture
+Furnishings,Furniture
+Tables,Furniture
+Office Supplies,Category
+Appliances,Office Supplies
+Art,Office Supplies
+Binders,Office Supplies
+Paper,Office Supplies
+Storage,Office Supplies
+Supplies,Office Supplies
+Technology,Category
+Copiers,Technology
+Phones,Technology
+Machines,Technology
